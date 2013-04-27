@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBarDemo", "MessageBarDemo\MessageBarDemo.csproj", "{117266D7-CC4A-4D68-A59D-34E411178352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBarDemo.Web", "MessageBarDemo.Web\MessageBarDemo.Web.csproj", "{57D243B0-7767-4B3F-BD97-D497996A72D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataArtistMessageBar", "..\MessageBar\DataArtistMessageBar.csproj", "{DFAE0CCC-FADE-4B13-BF0B-BC7791CAC7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117266D7-CC4A-4D68-A59D-34E411178352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117266D7-CC4A-4D68-A59D-34E411178352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117266D7-CC4A-4D68-A59D-34E411178352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117266D7-CC4A-4D68-A59D-34E411178352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D243B0-7767-4B3F-BD97-D497996A72D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D243B0-7767-4B3F-BD97-D497996A72D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D243B0-7767-4B3F-BD97-D497996A72D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D243B0-7767-4B3F-BD97-D497996A72D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAE0CCC-FADE-4B13-BF0B-BC7791CAC7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAE0CCC-FADE-4B13-BF0B-BC7791CAC7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAE0CCC-FADE-4B13-BF0B-BC7791CAC7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAE0CCC-FADE-4B13-BF0B-BC7791CAC7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
